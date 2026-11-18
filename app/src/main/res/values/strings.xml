@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Media Downloader Pro</string>
+    <string name="notification_channel_downloads">Media Downloads</string>
+    <string name="notification_channel_downloads_desc">Active download progress and completion alerts</string>
+    <string name="tab_home">Download</string>
+    <string name="tab_browser">Browser</string>
+    <string name="tab_library">Library</string>
+    <string name="tab_activity">Activity</string>
+    <string name="default_save_folder">Downloads/MediaDownloader</string>
+</resources>
